@@ -1,0 +1,12 @@
+[submodule "Ruby-Slim.tmbundle"]
+	path = Ruby-Slim.tmbundle
+	url = /home/abonec/Ruby-Slim.tmbundle
+[submodule "SublimeCodeIntel"]
+	path = SublimeCodeIntel
+	url = /home/abonec/SublimeCodeIntel
+[submodule "coffee-script-tmbundle"]
+	path = coffee-script-tmbundle
+	url = /home/abonec/coffee-script-tmbundle
+[submodule "sass.tmbundle"]
+	path = sass.tmbundle
+	url = /home/abonec/sass.tmbundle
